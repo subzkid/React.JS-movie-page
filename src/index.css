@@ -1,0 +1,49 @@
+/* Your CSS goes here */
+h1{
+    text-align: center;
+    color:blue;
+    position: relative;
+}
+
+nav{
+    margin-top: 3em;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #FFB6C1;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 7px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #FA8072;
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    padding: 0.3em;
+}
+
+Form{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
+
+#table{
+    margin-top: 5em;
+}
+
